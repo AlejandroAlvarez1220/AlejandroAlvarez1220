@@ -69,6 +69,21 @@
 
 ## Experiencia
 
+### COOPERATIVA DE TRANSPORTES ESPECIALES "COOTRANSUNIDAS"
+**Software analysis and maintenance** · Sep 2024 – Aug 2025
+
+- Analicé y mantuve sistemas internos para mantener rendimiento y continuidad operacional
+- Diagnosticé y resolví incidentes de software reportados por usuarios
+- Ejecuté mantenimiento correctivo y preventivo en bases de datos y aplicaciones de negocio
+- Mejoré funcionalidad y usabilidad mediante actualizaciones y optimizaciones de software
+- Apoyé la gestión y monitoreo de bases de datos SQL y procesos de integridad de datos
+- Colaboré con múltiples áreas para recopilar requisitos y proponer soluciones técnicas
+- Generé documentación técnica y reportes de procesos e incidentes
+- Brindé soporte técnico y resolución de problemas a usuarios internos
+- Participé en pruebas y validaciones de mejoras y nuevas funcionalidades
+- Contribuí a la automatización de procesos y a mejoras de eficiencia
+
+
 ### Q-vision technologies
 **Development Practitioner** · Sep 2025 – Mar 2026
 
