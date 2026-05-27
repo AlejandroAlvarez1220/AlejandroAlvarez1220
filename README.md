@@ -107,17 +107,11 @@
   </tr>
   <tr>
     <td><strong>GitHub</strong></td>
-    <td><a href="https://github.com/alejandro-alvarez-restrepo">alejandro-alvarez-restrepo</a></td>
+    <td><a href="https://github.com/AlejandroAlvarez1220">AlejandroAlvarez1220</a></td>
   </tr>
   <tr>
-    <td><strong>Portfolio</strong></td>
-    <td><a href="https://alejandro-alvarez.dev">alejandro-alvarez.dev</a></td>
+    <td><strong>WhatsApp</strong></td>
+    <td><a href="https://wa.link/amfee6">Escribeme</a></td>
   </tr>
 </table>
 
----
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-alvarez-restrepo&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-alvarez-restrepo&layout=compact&theme=vision-friendly-dark&hide_border=true" height="150" alt="Top Languages" />
-</div>
