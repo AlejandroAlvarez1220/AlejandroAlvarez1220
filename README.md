@@ -1,127 +1,123 @@
-Alejandro Alvarez Restrepo
-Full Stack Developer · AI Integrations · Automation
-Crafting modern web products, scalable backend systems, and AI-enabled workflows that move startups forward.
+<h1 align="left">👋 Hola, soy Alejandro Alvarez Restrepo</h1>
+<h2 align="left">Full Stack Developer · AI Integrations · Automation</h2>
 
-<img src="https://img.shields.io/badge/Medellín,_Colombia-1f2937?style=for-the-badge&amp;logo=location-dot&amp;logoColor=white" alt="Medellín">
+<p align="left">Construyo productos digitales modernos con énfasis en experiencias web, backends escalables y automatizaciones inteligentes. Mi enfoque combina diseño funcional con soluciones AI-ready para equipos y startups que buscan velocidad y calidad.</p>
 
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+---
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+## Sobre mí
 
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
+<p align="left">Soy desarrollador enfocado en aplicaciones web que integran AI, flujos de automatización y sistemas backend sólidos. Trabajo con equipos que valoran la entrega rápida, la arquitectura limpia y la experiencia de usuario bien pensada.</p>
 
-About Me
-I build clean, product-ready web applications with AI integration, automation, and reliable backend architecture. My focus is on connecting modern frontend experiences with scalable APIs, intelligent workflows, and practical automation that delivers value fast.
+- Desarrollo frontend moderno con React, Next.js y Angular
+- Construyo APIs confiables con Laravel y FastAPI
+- Implemento automatización, pipelines y soluciones AI pragmáticas
+- Priorizo calidad, escalabilidad y experiencia de producto
 
-Specialize in React, Next.js, Laravel, FastAPI, and AI-driven integration layers
-Build automation dashboards, workflow engines, and data-driven web products
-Strong emphasis on production readiness, developer flow, and system reliability
-Interested in prompt engineering, embeddings, PDF intelligence, and smart process automation
-Core Expertise
-Frontend systems with modern UI patterns and responsive experiences
-Backend APIs, database architecture, and service integration
-AI-enabled workflows, conversational systems, and document intelligence
-Automation pipelines, Docker-based environments, and developer tooling
-Product-focused delivery with strong attention to quality and usability
-Tech Stack
-Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+---
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+## Mi enfoque
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+- Soluciones reales para productos digitales y SaaS
+- Automatización de procesos y flujos de trabajo inteligentes
+- Integraciones con OpenAI, embeddings y procesamiento documental
+- Entornos Docker y despliegues pensados para desarrollo y producción
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP">
+---
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL">
+## Stack
 
-Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="SQL" />
+</div>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
+<div align="left" style="margin-top: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="32" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="32" alt="Bootstrap" />
+</div>
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular">
+<div align="left" style="margin-top: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="32" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
+</div>
 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS">
+<div align="left" style="margin-top: 12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" height="32" alt="OpenAI" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="32" alt="Supabase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="32" alt="Figma" />
+</div>
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
+---
 
-Backend
-<img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel">
+## Proyectos destacados
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+- **AI Workflow Hub** — Plataforma de automatización con integración de OpenAI para análisis documental y procesos inteligentes. (Next.js · FastAPI · Supabase · Docker)
+- **Automation Command Center** — Panel de control para gestionar flujos de trabajo cross-system y automatizaciones orientadas a negocio. (React · Laravel · n8n · SQL)
+- **PDF Intelligence Engine** — Motor de búsqueda semántica para documentos PDF con embeddings y resultados contextualizados. (Next.js · FastAPI · OpenAI · Supabase)
+- **Launch Analytics Dashboard** — Dashboard de métricas y KPIs con visualizaciones responsivas y data-driven. (Angular · Bootstrap · Laravel · SQL)
+- **Project Fleet Manager** — Sistema de gestión de tareas colaborativas para equipos ágiles con actualizaciones en tiempo real. (React · TailwindCSS · REST API)
+- **SupportFlow AI Assistant** — Asistente de soporte con enrutamiento inteligente y respuestas automáticas basadas en conocimiento. (Next.js · Laravel · OpenAI · Docker)
 
-<img src="https://img.shields.io/badge/REST_API-2563EB?style=flat-square&amp;logo=googleapi&amp;logoColor=white" alt="REST API">
+---
 
-Databases & Infra
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
+## Experiencia
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+### Q-vision technologies
+**Development Practitioner** · Sep 2025 – Mar 2026
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
+- Desarrollo de sistemas Laravel y APIs REST
+- Integración de soluciones AI y automatizaciones
+- Implementación de entornos Docker y despliegues eficientes
+- Trabajo con bases de datos SQL y plataformas Supabase
+- Personalización de WordPress y workflows de integración
 
-AI & Automation
-<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+---
 
-<img src="https://img.shields.io/badge/n8n-FF6A00?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="n8n">
+## Certificaciones
 
-<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Prompt Engineering">
+- AWS Fundamentals
+- Git Profesional
+- Angular Developer
+- Selenium Automation
+- Scrum Foundations
+- Prompt Engineering
 
-Featured Projects
-AI Workflow Hub
-Enterprise workflow platform for AI-powered business automation.
+---
 
-Next.js · FastAPI · OpenAI · Docker · Supabase
-Automated document analysis, task orchestration, and reporting
-Automation Command Center
-Dashboard for managing cross-system automations and process triggers.
+## Contacto
 
-React · Laravel · n8n · REST API · SQL
-Designed for reliability, observability, and low-latency execution
-PDF Intelligence Engine
-AI search experience for PDF documents, knowledge extraction, and semantic retrieval.
+<table>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/alejandro-alvarez-restrepo">alejandro-alvarez-restrepo</a></td>
+  </tr>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:alvarezalejandror1220@gmail.com">alvarezalejandror1220@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td><a href="https://github.com/alejandro-alvarez-restrepo">alejandro-alvarez-restrepo</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://alejandro-alvarez.dev">alejandro-alvarez.dev</a></td>
+  </tr>
+</table>
 
-Next.js · FastAPI · OpenAI embeddings · Supabase
-Supports contextual search, highlighting, and document summarization
-Launch Analytics Dashboard
-Modern analytics product for tracking metrics, user flows, and performance insights.
+---
 
-Angular · Bootstrap · Laravel · SQL
-Clean visualization, fast data access, and enterprise-ready reporting
-Project Fleet Manager
-Collaborative task management system built for agile teams.
-
-React · TailwindCSS · REST API · Supabase
-Real-time updates, status workflows, and team productivity tracking
-SupportFlow AI Assistant
-Customer support assistant with automated response routing and AI knowledge lookup.
-
-Next.js · OpenAI GPT · Laravel API · Docker
-Built for conversational accuracy, context preservation, and integration readiness
-Experience
-Q-vision technologies
-Development Practitioner · Sep 2025 – Mar 2026
-
-Delivered Laravel web systems and backend APIs
-Designed Docker-based development environments
-Built AI-enhanced solutions and automation workflows
-Integrated Supabase, SQL databases, and WordPress customizations
-Implemented data-driven API integrations and efficiency improvements
-Certifications
-AWS Fundamentals
-Git Professional
-Angular Developer
-Selenium Automation
-Scrum Basics
-Prompt Engineering
-GitHub Presence
-<img src="https://github-readme-stats.vercel.app/api?username=alejandro-alvarez-restrepo&amp;show_icons=true&amp;theme=vision-friendly-dark&amp;count_private=true" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-alvarez-restrepo&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Languages">
-
-Contact
-LinkedIn: alejandro-alvarez-restrepo
-Email: alvarezalejandror1220@gmail.com
-GitHub: alejandro-alvarez-restrepo
-
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-alvarez-restrepo&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-alvarez-restrepo&layout=compact&theme=vision-friendly-dark&hide_border=true" height="150" alt="Top Languages" />
+</div>
