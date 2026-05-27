@@ -69,7 +69,7 @@
 
 ## Experiencia
 
-### COOPERATIVA DE TRANSPORTES ESPECIALES "COOTRANSUNIDAS"
+### COOTRANSUNIDAS
 **Software analysis and maintenance** · Sep 2024 – Aug 2025
 
 - Analicé y mantuve sistemas internos para mantener rendimiento y continuidad operacional
